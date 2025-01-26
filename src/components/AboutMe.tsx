@@ -19,7 +19,7 @@ export const AboutMe = () => {
               className="text-sm font-medium tracking-wider uppercase text-muted-foreground mb-2"
             />
             <h2 className="text-3xl font-bold tracking-tight mb-4">
-              Passionate About Creating Meaningful Digital Solutions
+              Passionate about solving user and business challenges through strategic design solutions
             </h2>
             <p className="text-muted-foreground leading-relaxed">
               I'm a UX designer and developer focused on creating digital experiences
