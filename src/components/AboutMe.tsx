@@ -22,10 +22,7 @@ export const AboutMe = () => {
               Passionate about solving user and business challenges through strategic design solutions
             </h2>
             <p className="text-muted-foreground leading-relaxed">
-              I'm a UX designer and developer focused on creating digital experiences
-              that combine beautiful design with excellent functionality. With a keen
-              eye for detail and a user-centered approach, I strive to make every
-              interaction meaningful and delightful.
+              I'm a UX designer dedicated to crafting thoughtful digital experiences that bridge user needs and business goals. With a strategic mindset and a passion for solving complex problems, I focus on creating intuitive designs that drive user engagement and deliver measurable results. I believe in the power of user-centered design to transform ideas into impactful solutions.
             </p>
           </div>
           <div className="grid grid-cols-2 gap-4">
