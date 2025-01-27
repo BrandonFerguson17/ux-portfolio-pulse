@@ -4,7 +4,7 @@ import { CaseStudies } from "@/components/CaseStudies";
 
 const Index = () => {
   return (
-    <main className="min-h-screen">
+    <main className="min-h-screen w-full">
       <Hero />
       <AboutMe />
       <CaseStudies />
