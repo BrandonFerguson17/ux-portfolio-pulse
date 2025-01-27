@@ -6,8 +6,8 @@ const CaseStudy = () => {
     <div className="min-h-screen bg-background">
       {/* Hero Section */}
       <Section className="bg-primary/5">
-        <h1 className="text-4xl md:text-5xl font-bold mb-4">Project Title</h1>
-        <p className="text-lg text-muted-foreground">A brief overview of the project</p>
+        <h1 className="text-4xl md:text-5xl font-bold mb-4">Ramsey Advice</h1>
+        <p className="text-lg text-muted-foreground">Responsive Web App</p>
       </Section>
 
       {/* Context Section */}
@@ -17,7 +17,7 @@ const CaseStudy = () => {
             <CardTitle>Context</CardTitle>
           </CardHeader>
           <CardContent className="space-y-4">
-            <p>Describe the background, challenge, and goals of the project.</p>
+            <p>The Advice App is a web app allowing Ramsey fans to submit questions related to the money plan and receive trustworthy answers from Ramsey vetted people. It serves as a bridge in the customer lifecycle, connecting users with personalized advice and seamlessly moving them to relevant Ramsey products and services applicable to their situation.</p>
             <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
               <div className="space-y-2">
                 <h3 className="font-semibold">Timeline</h3>
@@ -29,7 +29,7 @@ const CaseStudy = () => {
               </div>
               <div className="space-y-2">
                 <h3 className="font-semibold">Team</h3>
-                <p className="text-muted-foreground">3 members</p>
+                <p className="text-muted-foreground">5 members</p>
               </div>
             </div>
           </CardContent>
